@@ -1,4 +1,4 @@
-<h2>👨‍💻 Email Analysis-Phishing</h2>
+<h2>👨‍💻 Phishing Email Analysis</h2>
 
 ## Objective
 
@@ -13,5 +13,6 @@ The purpose of this Email Analysis project is to establish a controlled environm
 
 ### Tools Used
 
-- Virtual environment - Oracle VM Virtual Box - to perform analysis
-- Text editing tool - NotePad
+- Oracle VM Virtual Box - virtual environment to perform analysis
+- NotePad++ - text editing tool
+- HxD - an application used to view files in hex
