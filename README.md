@@ -6,12 +6,12 @@ The purpose of this Email Analysis project is to establish a controlled environm
 
 ### Skills Learned
 
-- Network security fundamentals
+- Incident response
 - Firewall functionalities and how they operate to protect networks
 - Network protocols and how they are handled by firewalls
 - Risk assessment
 
 ### Tools Used
 
-- Network analysis tool - Wireshark - for capturing and examining network traffic
-- Packet filtering tool - Windows Firewall with Advanced Security
+- Virtual environment - Oracle VM Virtual Box - to perform analysis
+- Text editing tool - NotePad
